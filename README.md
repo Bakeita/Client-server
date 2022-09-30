@@ -1,3 +1,2 @@
-# socket-exple-in-java
+# Client-Server communication
 
-i'm just a beginner
